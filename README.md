@@ -1,3 +1,7 @@
+---
+description: Mac OS X and iOS Internals 번역하며 공부한 내용들.
+---
+
 # Index
 
 ## Part 1. for Power Users

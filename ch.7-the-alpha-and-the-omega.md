@@ -24,11 +24,3 @@ Mac, i-Device 의 전원을 켜면 boot loader\(OS X: EFI, iOS: iBoot\)가 kerne
 
 
 
-## GUI SHELLS
-
-
-
-## XPC
-
-
-

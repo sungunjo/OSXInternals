@@ -16,6 +16,8 @@ description: Mac OS X and iOS Internals 번역하며 공부한 내용들.
 
 
 
+
+
 ## Part 2. The Kernel
 
 ### [ch.8 Some Assembly Required](ch.8-some-assembly-required.md) \(작성중\)
